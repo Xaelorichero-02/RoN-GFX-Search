@@ -1,10 +1,10 @@
-# HoI4 GFX Search
+# RoN GFX Search
 
-This tool helps you easily find GFX from unmodded (vanilla) Hearts of Iron 4 1.14.
-
-All images are © Copyright Paradox Development Studio. Hearts of Iron® is a registered trademark of Paradox Interactive. This tool is not affiliated in any way with Paradox Development Studio or Paradox Interactive.
+This tool helps you easily find GFX from Rise of Nations.
 
 Made by Yard1
+
+Edited by Xaelor
 
 Inspired by https://wyandotte.github.io/hoi4-icon-search/
 
